@@ -108,7 +108,7 @@ namespace HTTP5101_A2_Jalal.Controllers
             }
 
 
-            return "Total time (key presses+pauses) are: " + totalKeyPress ".";
+            return "Total time (key presses+pauses) are: " + totalKeyPress + ".";
 
         }
     }
